@@ -1,2 +1,2 @@
 # MY-HOUSE
-
+Ce projet s'inscrit dans le cadre du module de communication sans fil et vise à créer une maison connectée en carton. Nommer "MY HOUSE", il inclut un système d'éclairage automatique commandé par des capteurs de présence et de luminosité, Le tout est programmé via un logiciel permettant de surveiller en temps réel les paramètres environnementaux tels que la température, l'humidité et la luminosité de la maison.
